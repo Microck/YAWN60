@@ -19,6 +19,7 @@ An open-source 60% keyboard inspired by the Bakeneko, featuring a Unikorn-style 
 *   Unikorn-inspired blank external weight.
 *   Modified side profile.
 *   25-degree cherry lip.
+*   Moved JST hole to allow for Waffling60 use.
 *   ":3" engraving near the USB-C port cutout.
 *   "Yet Another Weighted Neko" internal engraving (Evangelion-style).
 
