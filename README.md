@@ -75,15 +75,15 @@ My unit was made with a **frosted polycarbonate case** and a **polished stainles
 </p>
 
 <p align="left">
-  <img src="images/YAWN2_1.png" alt="YAWN Prototype Photo 7" width="600">
+  <img src="images/YAWN2_1.jpg" alt="YAWN Prototype Photo 7" width="600">
 </p>
 
 <p align="left">
-  <img src="images/YAWN2_2.png" alt="YAWN Prototype Photo 8" width="600">
+  <img src="images/YAWN2_2.jpg" alt="YAWN Prototype Photo 8" width="600">
 </p>
 
 <p align="left">
-  <img src="images/YAWN2_3.png" alt="YAWN Prototype Photo 8" width="600">
+  <img src="images/YAWN2_3.jpg" alt="YAWN Prototype Photo 8" width="600">
 </p>
 
 
@@ -96,7 +96,7 @@ My unit was made with a **frosted polycarbonate case** and a **polished stainles
 ### <a href="https://youtu.be/5F3iMTc4hus"><u>YAWN60 with lubed Vintage Cherry MX Browns (KKB, 70a)</u></a>
 
 <a href="https://youtu.be/r1ay5p-LkQY" target="_blank" title="Click to watch YAWN Sound Test">
-  <img src="images/SoundTest2.jpg" alt="YAWN Keyboard Sound Test (Click Image to Play Video)" />
+  <img src="images/SoundTest2.png" alt="YAWN Keyboard Sound Test (Click Image to Play Video)" />
 </a>
 
 ### <a href="https://youtu.be/r1ay5p-LkQY"><u>YAWN60 with lubed Vintage Cherry MX Browns (GMK, 30a)</u></a>
@@ -123,5 +123,6 @@ Please be aware that this test does not accurately reflect how it will actually 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 See the `LICENSE` file for the full license text.
+
 
 
